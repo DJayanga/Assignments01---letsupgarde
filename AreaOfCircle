@@ -1,0 +1,6 @@
+<script>
+  let radiousOfCircle = 20;
+  const pi = 3.14
+  let area = pi*(radiousOfCircle*radiousOfCircle);
+  console.log(area);
+</script>
